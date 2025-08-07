@@ -1,4 +1,4 @@
-### Hello, I am SeokHwan - Developer
+### 🌱 Hello, I am SeokHwan - Developer
 
 ### 🛠 Tech Stack
 
